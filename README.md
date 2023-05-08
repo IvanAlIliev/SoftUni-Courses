@@ -1,2 +1,2 @@
 # SoftUni-Courses
-Courses for my education @ Softuni.
+Courses for my education @ Softuni. I edit this on GetHub directly
